@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /index-backup.html
+
+Sitemap: https://hoteltamilnadu.com/sitemap.xml
